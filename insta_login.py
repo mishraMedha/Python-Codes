@@ -1,4 +1,4 @@
-#Small instalogin funtion to autmate the Instagram Login
+#Small instalogin funtion to automate the Instagram Login
 def instalogin():
     from selenium import webdriver
 
